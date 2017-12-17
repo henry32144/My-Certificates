@@ -1,7 +1,7 @@
-My Certifications
+My Certificates
 =====================================
 
-Hello! these are my certifications.
+Hello! these are my certificates.
 
 ## Languages
 
